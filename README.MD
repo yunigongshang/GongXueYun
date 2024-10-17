@@ -12,7 +12,7 @@ https://github.com/XuanRanDev/Auto-GongXueYun-2
 >
 
 
-## 有问题可以issues
+## 目前停止维护
 
 
 ## 项目更改
